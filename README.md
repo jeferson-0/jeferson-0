@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing too
 - 📫 How to reach me im thinking...
 - 😄 Pronouns: he-him
-- ⚡ Fun fact: i don`t know how to use pronouns... but im a male
+- ⚡ Fun fact: i dont know how to use pronouns... but im a male
 
 <!---
 jeferson-0/jeferson-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
